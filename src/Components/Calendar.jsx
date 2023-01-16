@@ -46,7 +46,7 @@ import {
           </Heading>
           <Stack align={"center"} mt={"2rem"}>
             <GitHubCalendar
-              username="akshaypatel80"
+              username="abajaj655"
               transformData={selectLastHalfYear}
               blockSize={15}
               fontSize={15}
