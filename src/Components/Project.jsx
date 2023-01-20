@@ -37,7 +37,19 @@ const data = [
     responsibility: ["Collaborative", "E-Commerce"],
     TechStack: ["CSS", "JavaScript", "React", "Chakra UI", "Axios"],
     github: "https://github.com/mehfoozkhangithub/tangible-robin-3650/tree/main/team_robin",
-    deployment: "https://glittery-froyo-adab52.netlify.app/",
+    deployment: "https://strong-parfait-b1bad8.netlify.app/",
+  },
+  {
+    id: 4,
+    name: "Mytheresa clone",
+    image:
+      "https://www.afashionblog.com/wp-content/uploads/2021/11/Is_Mytheresa_A_Legitimate_Website_3.jpg",
+    description:
+      "Mytheresa is one of the leading global luxury fashion e-commerce platforms shipping to over 130 countries",
+    responsibility: ["Collaborative", "E-Commerce"],
+    TechStack: ["CSS", "JavaScript", "React", "Chakra UI", "Axios", "Redux"],
+    github: "https://github.com/101beardo/goofy-shock-9631",
+    deployment: "https://luminous-swan-cc6644.netlify.app/",
   },
 ];
 const Project = () => {
