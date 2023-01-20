@@ -12,7 +12,7 @@ const data = [
     responsibility: ["Collaborative", "Pharmacy"],
     TechStack: ["HTML", "CSS", "JavaScript", "LocalStorage"],
     github: "https://github.com/lokeshahire/NetMeds-Clone",
-    deployment: "https://netmedclone-akash-alok-ashish-lokesh-parv-pooja.netlify.app/",
+    deployment: "https://netmed-lokesh-alok-ashish-akash-pooja.netlify.app/",
   },
   {
     id: 2,
