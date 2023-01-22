@@ -113,7 +113,7 @@ const Navbar = () => {
               }}
             >
               <a
-                href="https://drive.google.com/file/d/1H6FseHag4BpxFavw8AaGsw7b84xWGqh8/view?usp=sharing"
+                href="https://drive.google.com/uc?export=download&id=1H6FseHag4BpxFavw8AaGsw7b84xWGqh8"
                 style={{ cursor: "pointer" }}
                 target={"_blank"}
                 rounded={"md"}

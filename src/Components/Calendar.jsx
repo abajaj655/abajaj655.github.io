@@ -47,8 +47,9 @@ import {
           <Stack align={"center"} mt={"2rem"}>
             <GitHubCalendar
               username="abajaj655"
-              transformData={selectLastHalfYear}
               blockSize={15}
+              blockMargin={5}
+              color="orange"
               fontSize={15}
               // hideTotalCount
               // hideColorLegend
@@ -63,7 +64,7 @@ import {
             mx={"auto"}
             alignItems={"center"}
           >
-            <Box p={"10px"} boxShadow={"rgba(0, 0, 0, 0.24) 0px 3px 8px"}>
+            <Box p={"10px"} boxShadow={"rgba(0, 0, 0, 0.24) 0px 3px 8px"} m="auto">
               <Link
                 href="https://github.com/abajaj655"
                 boxShadow={"rgba(0, 0, 0, 0.24) 0px 3px 8px"}
@@ -76,7 +77,7 @@ import {
                 />
               </Link>
             </Box>
-            <Box p={"10px"} boxShadow={"rgba(0, 0, 0, 0.24) 0px 3px 8px"}>
+            <Box p={"10px"} boxShadow={"rgba(0, 0, 0, 0.24) 0px 3px 8px"} m="auto">
               <Link href="https://github.com/abajaj655">
                 <Image
                   src={`https://github-readme-streak-stats.herokuapp.com?user=abajaj655&theme=${useColorModeValue(
@@ -88,6 +89,7 @@ import {
             </Box>
   
             <Box
+              m="auto"
               boxShadow={"rgba(0, 0, 0, 0.24) 0px 3px 8px"}
               width={{ base: "60%", lg: "70%", sm: "50%" }}
               p={"10px"}
